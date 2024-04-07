@@ -1,2 +1,2 @@
 # oop_project
-The code explains how 3x+1 ruke works and hw many iteritation
+The code explains how 3x+1 rule works and how many iteritation
