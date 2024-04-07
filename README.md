@@ -1,4 +1,4 @@
-# PHP a program to calculate the mathematical function 3x + 1 using OOP, Access Modifiers,
+# PHP a program to calculate the mathematical function 3x + 1 using OOP, Access Modifiers
 
 This PHP code defines a class called CollatzSequence that generates and analyses Collatz sequences for a given range of input numbers, or a single number based on user input to enter single number or sequence & the step size between numbers in the sequence & here how the code works:
 1.	The class CollatzSequence is defined with a public property $results to store the results of the Collatz sequences.
